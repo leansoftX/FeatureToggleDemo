@@ -1,0 +1,11 @@
+C:\Demo\LeansoftX_FeatureToggle\LeansoftX_FeatureToggle\bin\Debug\netcoreapp2.0\LeansoftX_FeatureToggle.deps.json
+C:\Demo\LeansoftX_FeatureToggle\LeansoftX_FeatureToggle\bin\Debug\netcoreapp2.0\LeansoftX_FeatureToggle.runtimeconfig.json
+C:\Demo\LeansoftX_FeatureToggle\LeansoftX_FeatureToggle\bin\Debug\netcoreapp2.0\LeansoftX_FeatureToggle.runtimeconfig.dev.json
+C:\Demo\LeansoftX_FeatureToggle\LeansoftX_FeatureToggle\bin\Debug\netcoreapp2.0\LeansoftX_FeatureToggle.dll
+C:\Demo\LeansoftX_FeatureToggle\LeansoftX_FeatureToggle\obj\Debug\netcoreapp2.0\LeansoftX_FeatureToggle.csprojResolveAssemblyReference.cache
+C:\Demo\LeansoftX_FeatureToggle\LeansoftX_FeatureToggle\obj\Debug\netcoreapp2.0\LeansoftX_FeatureToggle.csproj.CoreCompileInputs.cache
+C:\Demo\LeansoftX_FeatureToggle\LeansoftX_FeatureToggle\obj\Debug\netcoreapp2.0\LeansoftX_FeatureToggle.AssemblyInfoInputs.cache
+C:\Demo\LeansoftX_FeatureToggle\LeansoftX_FeatureToggle\obj\Debug\netcoreapp2.0\LeansoftX_FeatureToggle.AssemblyInfo.cs
+C:\Demo\LeansoftX_FeatureToggle\LeansoftX_FeatureToggle\bin\Debug\netcoreapp2.0\LeansoftX_FeatureToggle.pdb
+C:\Demo\LeansoftX_FeatureToggle\LeansoftX_FeatureToggle\obj\Debug\netcoreapp2.0\LeansoftX_FeatureToggle.dll
+C:\Demo\LeansoftX_FeatureToggle\LeansoftX_FeatureToggle\obj\Debug\netcoreapp2.0\LeansoftX_FeatureToggle.pdb
